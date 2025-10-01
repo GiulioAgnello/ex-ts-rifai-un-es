@@ -53,7 +53,7 @@ const getChefBirthday = async (id: number): Promise<string> => {
 function App() {
   return (
     <>
-      <h1>compleanno dello chef</h1>
+      <h1>compleanno dello chef Completato</h1>
     </>
   );
 }
